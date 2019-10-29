@@ -7,7 +7,7 @@ ORG:LM Agnese;
 TITLE:Marketing Specialist\nLM Agnese Global Division
 EMAIL;type=INTERNET;type=WORK;type=pref:anthony.yung@lmagnese.com
 TEL;type=WORK;type=VOICE:+852 9255 2529
-item1.ADR;type=WORK;type=pref:;;193 Prince Edward Rd W\nMong Kok\, ;Hong Kong
+item1.ADR;type=WORK;type=pref:;;193 Prince Edward Rd W\nMong Kok\, Hong Kong
 item1.X-ABADR:hk
 item2.URL;type=pref:lmagnese.com
 item2.X-ABLabel:_$!<HomePage>!$_
